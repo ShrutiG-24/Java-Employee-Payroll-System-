@@ -1,4 +1,5 @@
 Payroll Management System (Java)
+
 📌 Project Description
 The Payroll Management System is a Java-based console application designed to manage employee payroll information efficiently. It demonstrates core Object-Oriented Programming (OOP) principles by handling different employee types and calculating their salaries based on specific rules.
 This project is ideal for learning OOP concepts, academic submissions, and interview demonstrations.
